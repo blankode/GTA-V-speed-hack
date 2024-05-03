@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="34">
+  <CheatEntries/>
+  <UserdefinedSymbols/>
+  <LuaScript>
+ 
+hideAllCEWindows();
+OpenProcess("FiveM_b2612_GTAProcess.exe")
+speedhack_setSpeed'65'
+Sleep(500)
+ closeCE()
+ 
+</LuaScript>
+</CheatTable>
